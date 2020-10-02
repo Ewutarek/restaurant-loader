@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "set menu 1",
+      "restaurant_id": 1
+    },
+    {
+      "id": 2,
+      "title": "set menu 2",
+      "restaurant_id": 2
+    },
+    {
+    "id": 3,
+    "title": "set menu 3",
+    "restaurant_id": 3
+    },
+    {
+    "id": 4,
+    "title": "Wine 1",
+    "restaurant_id": 4
+    },
+    {
+    "id": 5,
+    "title": "Dessert 2",
+    "restaurant_id": 5
+    }, 
+    {
+    "id": 6,
+    "title": "set menu 4",
+    "restaurant_id": 6
+    },
+    {
+    "id": 7,
+    "title": "set menu 5",
+    "restaurant_id": 7
+    },
+    {
+    "id": 8,
+    "title": "set menu 6",
+    "restaurant_id": 8
+    },
+    {
+    "id": 9,
+    "title": "Wine 2",
+    "restaurant_id": 9
+    },
+    {
+    "id": 10,
+    "title": "Dessert 2",
+    "restaurant_id": 10
+    }, 
+    {
+    "id": 11,
+    "title": "Main 1",
+    "restaurant_id": 11
+    },
+    {
+    "id": 12,
+    "title": "Main 2",
+    "restaurant_id": 12
+    }
+
+  ]
